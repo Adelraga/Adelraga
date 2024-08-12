@@ -15,6 +15,10 @@ I'm a passionate **Flutter Developer** with a knack for crafting beautiful and f
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
+![AdelRagab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adelraga&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adelraga&layout=compact&theme=dark)
+
+
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/adel-ragab-400002215)
