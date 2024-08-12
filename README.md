@@ -1,4 +1,4 @@
-# Hi 👋, I'm AdelRagab
+# Hi 👋, I'm Adel Ragab
 
 I'm a passionate **Flutter Developer** with a knack for crafting beautiful and functional mobile applications. I love learning new technologies and sharing knowledge with others.
 
